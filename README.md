@@ -29,10 +29,11 @@ License notes:<br>
 Technical notes:
 
 This project uses the following crates:
-| Crate | Version          |
-| ------------- | ----------- |
-| libpnet      | 0.1.1|
-| rustc-serialize     | 0.3     |
+
+Crate  | Version
+------------- | -------------
+libpnet  | 0.1.1
+rustc-serialize  | 0.3
 
 libpnet provides the capability to sniff packets directly off of the wire. Per libpnet, "libpnet provides a cross-platform API for low level networking using Rust."
 
