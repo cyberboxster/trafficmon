@@ -1,0 +1,9 @@
+[package]
+name = "trafficmon"
+version = "0.1.0"
+authors = ["tim"]
+
+[dependencies]
+
+pnet = "0.1.1"
+rustc-serialize = "0.3"
